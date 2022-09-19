@@ -252,11 +252,13 @@ content: '';
 @media  (min-width: 991.98px){
     
 
-         .box .img3 img{
-        object-fit: cover;
-    width: 465%;
-    height: 100%;
-         }  
+       .box .img3 img {
+            object-fit: cover;
+            width: 511% ;
+            height: 17rem ;
+            margin-left: -34% ;
+            margin-top: -93% ;
+        }
 }
 
             .box .img3 {
